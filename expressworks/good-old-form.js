@@ -7,9 +7,8 @@ app.use(express.urlencoded());
 // but if use post, we will get the actual input--then
 // you cannot pass the verification
 app.get('/form', function (req, res) {
-            console.log(req.body);
-            res.send(req.body.str.split('').reverse().join(''));
-        });
+  console.log(req.body);
+  res.send(req.body.str.split('').reverse().join(''));
+});
 
 app.listen(process.argv[2]);
-
