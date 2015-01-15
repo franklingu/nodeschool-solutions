@@ -1,0 +1,26 @@
+{
+  "name": "learnyounodecouchdb-solution",
+  "version": "0.0.1",
+  "description": "",
+  "main": "null",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franklingu/nodeschool.git"
+  },
+  "keywords": [
+    "couchdb"
+  ],
+  "author": "franklingu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franklingu/nodeschool/issues"
+  },
+  "homepage": "https://github.com/franklingu/nodeschool",
+  "dependencies": {
+    "async": "^0.9.0",
+    "request": "^2.51.0"
+  }
+}
