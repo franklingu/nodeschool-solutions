@@ -1,0 +1,22 @@
+{
+  "name": "bug-clinic-solution",
+  "version": "0.0.1",
+  "description": "",
+  "main": "null",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franklingu/nodeschool.git"
+  },
+  "keywords": [
+    "debugging"
+  ],
+  "author": "franklingu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franklingu/nodeschool/issues"
+  },
+  "homepage": "https://github.com/franklingu/nodeschool"
+}
