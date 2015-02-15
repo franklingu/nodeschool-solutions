@@ -1,0 +1,28 @@
+{
+  "name": "promise-it-wont-hurt-solutions",
+  "version": "0.0.1",
+  "description": "nil",
+  "main": "nil",
+  "scripts": {
+    "test": "nil"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franklingu/nodeschool.git"
+  },
+  "keywords": [
+    "promise",
+    "solutions"
+  ],
+  "author": "franklingu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franklingu/nodeschool/issues"
+  },
+  "homepage": "https://github.com/franklingu/nodeschool",
+  "dependencies": {
+    "lodash": "^3.2.0",
+    "q": "^1.1.2",
+    "q-io": "^1.11.6"
+  }
+}
