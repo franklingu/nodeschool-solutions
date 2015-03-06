@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/franklingu/nodeschool/issues"
   },
-  "homepage": "https://github.com/franklingu/nodeschool"
+  "homepage": "https://github.com/franklingu/nodeschool",
+  "dependencies": {
+    "bunyan": "^1.3.3"
+  }
 }
