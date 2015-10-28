@@ -1,0 +1,15 @@
+{
+  "name": "lololodash-solutions",
+  "version": "0.0.1",
+  "description": "solutions for lololodash",
+  "main": "null",
+  "scripts": {
+    "test": "null"
+  },
+  "keywords": [
+    "lololodash",
+    "solutions"
+  ],
+  "author": "franklingu",
+  "license": "MIT"
+}

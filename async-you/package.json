@@ -1,0 +1,15 @@
+{
+  "name": "async-you-solutions",
+  "version": "0.0.1",
+  "description": "Solutions for async you\u001b[D\u001b[D\u001b[-",
+  "main": "null",
+  "scripts": {
+    "test": "null"
+  },
+  "keywords": [
+    "async-you",
+    "solutions"
+  ],
+  "author": "franklingu",
+  "license": "MIT"
+}
