@@ -11,5 +11,8 @@
     "solutions"
   ],
   "author": "franklingu",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
 }
