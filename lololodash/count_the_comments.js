@@ -5,7 +5,7 @@ var worker = function(comments) {
     var vals = [];
     var grouped = _.groupBy(comments, function (comment) {
         return comment.username;
-    })
+    });
     _.forEach(grouped, function (comments, username) {
         vals.push({username: username, comment_count: _.size(comments)});
     });
