@@ -1,0 +1,26 @@
+{
+  "name": "test-anything-solutions",
+  "version": "0.0.1",
+  "description": "solutions for test-anything",
+  "main": "null",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franklingu/nodeschool-solutions.git"
+  },
+  "keywords": [
+    "test-anything",
+    "solutions"
+  ],
+  "author": "franklingu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franklingu/nodeschool-solutions/issues"
+  },
+  "homepage": "https://github.com/franklingu/nodeschool-solutions#readme",
+  "dependencies": {
+    "tape": "^4.2.2"
+  }
+}
