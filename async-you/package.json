@@ -1,7 +1,7 @@
 {
   "name": "async-you-solutions",
   "version": "0.0.1",
-  "description": "Solutions for async you\u001b[D\u001b[D\u001b[-",
+  "description": "Solutions for async you",
   "main": "null",
   "scripts": {
     "test": "null"
@@ -10,6 +10,13 @@
     "async-you",
     "solutions"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franklingu/nodeschool-solutions.git"
+  },
   "author": "franklingu",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.0"
+  }
 }
